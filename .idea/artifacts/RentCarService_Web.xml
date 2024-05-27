@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RentCarService:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/RentCarService_Web</output-path>
+    <root id="archive" name="RentCarService_Web.war">
+      <element id="artifact" artifact-name="RentCarService:Web exploded" />
+    </root>
+  </artifact>
+</component>
